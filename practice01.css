@@ -1,0 +1,63 @@
+header{
+    background-color: black;
+    width: 100;
+    padding: 0.7%;
+    color: beige;
+    border-top-left-radius:0.6cm;
+    border-top-right-radius: 0.6cm;
+}
+
+.button1 { 
+    background-color:#4C5FD5 ;
+    color: bisque;
+    float: right;
+    border-radius: 0.6ch;
+}
+
+.button2 {
+    background-color: black;
+    color: white;
+    float: right;
+}
+
+span {
+    margin-left: 50%;
+}
+
+nav{
+    background-color:#dadbf1 ;
+    width: 100;
+    padding: 60px;
+    text-align: center;
+    color: rgb(4, 4, 4);
+    font-size: 40px;
+}
+
+.first{
+    margin-top: 40px;
+
+}
+.image1 {
+    width: 140px;
+    height: 140px;
+}
+
+.image2 {
+    width: 140px;
+    height: 140px;
+    padding-left: 1cm;
+}
+
+.image4 {
+    width: 140px;
+    height: 140px;
+    padding-left: 1cm;
+}
+.image6 {
+    width: 140px;
+    height: 140px;
+    padding-left: 2cm;
+}
+
+
+
